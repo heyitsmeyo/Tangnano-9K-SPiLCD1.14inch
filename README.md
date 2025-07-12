@@ -1,5 +1,5 @@
 # Tangnano-9K-SPiLCD1.14inch
-a verilog project to write letters on an spi lcd 1.14 inch connected to Tang Nano 9k Dev Board 
+a verilog project to write letters on an spi lcd 1.14 inch connected to Tang-Nano-9k Fpga Dev Board 
 
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/925ebdc6-5509-41e2-89cc-e6cd1444389e" />
 
